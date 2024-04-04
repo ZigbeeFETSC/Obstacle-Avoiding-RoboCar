@@ -21,7 +21,7 @@ This is a repository for an obstacle avoiding robocar that uses an ultrasonic se
 
 ## Wiring Diagram
 
-![App Screenshot](/src/circuit.png)
+![App Screenshot](circuit.jpg)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
